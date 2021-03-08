@@ -1,0 +1,1 @@
+# stylelint-formatter-json-relative
